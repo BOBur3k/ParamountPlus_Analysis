@@ -1,6 +1,6 @@
 # Paramount Plus TV Shows Analysis
 
-![Postter](docs/poster.png)
+![Poster](docs/poster.png)
 <p align="right">
   Artwork created by AI
 </p>
